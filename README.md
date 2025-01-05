@@ -15,7 +15,9 @@ This repository provides algorithms for non-parametric homogeneity tests for bot
 1. **Akritas Method** (Two-sample case)
 
 2. **Weighted Log-Rank Criterion** (Two-sample and more than two-sample cases)
-   - Proposed by V. Bagdonavičius
+   - Proposed by V. Bagdonavičius.
+     
+     Reference: Bagdonavičius, Vilijandas, Julius Kruopis, and Mikhail S Nikulin. *Non-Parametric Tests for Censored Data*. United States: John Wiley & Sons, Incorporated, (2011).
 
 3. **PPW Test** (Two-sample case)
    - Designed for left-censored data in 'NADA2' package.
